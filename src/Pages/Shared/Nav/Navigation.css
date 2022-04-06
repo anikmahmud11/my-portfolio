@@ -1,0 +1,28 @@
+.navigate{
+    background-color: rgb(141, 35, 240);
+    opacity: .5;
+}
+.offcanvas{
+    background-color: rgb(128, 55, 189);
+    width: 30%;
+    text-align: center;
+    color: white;
+
+    
+}
+.custom-btn{
+    color: white;
+    border-radius: 10px;
+    font-weight: 900;
+    
+}
+.custom-btn:hover {
+    
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(93, 181, 221), 0 0 5px rgb(82, 140, 228);
+    background-color: #8f72af;
+    color: white;
+    transition: 0.5s;
+  }
+  .body{
+      background-color:rgb(90, 30, 139);
+  }

@@ -1,0 +1,18 @@
+.form-style{
+    border: none;
+    border-radius: 20px;
+    width: fit-content;
+    background-color: white;
+}
+.input{
+    border: 1px solid rgb(115, 209, 233);
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.input:hover{
+    border: 1px solid rgb(209, 104, 250);
+    transition: .4s;
+}

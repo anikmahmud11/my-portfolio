@@ -1,0 +1,27 @@
+.resume-btn{
+    background-color: rgb(144, 82, 168);
+    border: none;
+}
+.resume-btn:hover{
+    box-shadow:2px 2px 6px 6px #a09fa1;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(93, 181, 221), 0 0 5px rgb(82, 140, 228);
+    background-color: #7d59a5;
+    transition: 0.4s;
+}
+.icon{
+    font-size: 35px;
+    color: #7d59a5;
+    border-radius: 20px;
+}
+.icon:hover{
+    
+    box-shadow:2px 2px 6px 6px #a09fa1;
+    transition: 0.4s;
+}
+.name{
+    color: #7d59a5;
+}
+.t-shadow{
+    text-shadow: 2px 2px 4px #a79d9d;
+}
+
